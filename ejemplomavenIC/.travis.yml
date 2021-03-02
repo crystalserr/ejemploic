@@ -1,5 +1,0 @@
-sudo: false
-jdk: 
-  - openjdk8
-languaje: java
-script: mvn test
