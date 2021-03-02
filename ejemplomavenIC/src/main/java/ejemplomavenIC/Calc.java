@@ -23,6 +23,7 @@ public class Calc {
 		return this.i * this.i1;
 	}
 	
+	// dividir
 	public Integer dividir() {
 		return this.i / this.i1;
 	}
