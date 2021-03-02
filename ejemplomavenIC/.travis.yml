@@ -1,5 +1,5 @@
 sudo: false
 jdk: 
-	- openjdk8
+  - openjdk8
 languaje: java
 script: mvn test
